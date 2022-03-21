@@ -1,0 +1,17 @@
+@media (max-width:315px) and (max-width:426px) {
+    .live-card{
+        flex-direction: column;
+    }
+    .flex{
+        align-items: center;
+        text-align: center;
+    }
+    .center_text{
+        align-items: center;
+        /* text-align: center; */
+    }
+
+    .center_align{
+        text-align: center;
+    }
+}
